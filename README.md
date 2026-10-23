@@ -4,10 +4,10 @@
 Our project focuses on building an autonomous robot car that uses sensors to detect obstacles and avoid collisions. The car is designed to move independently and navigate around objects in its path.
 
 ## Team Members
-- Yousif Alhayazei
-- Gedion Aregu
+ Yousif Alhayazei
+Gedion Aregu
 
 ## Project Objectives
-- Detect obstacles using sensors.
-- Avoid collisions automatically.
-- Develop a robot car that navigates safely on its own.
+Detect obstacles using sensors.
+ Avoid collisions automatically.
+Develop a robot car that navigates safely on its own.
