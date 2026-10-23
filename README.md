@@ -11,6 +11,6 @@ Our project focuses on building an autonomous robot car that uses sensors to det
 
 ## Project Objectives
 
-- Detect obstacles using sensors.
+- Detect obstacles using sensors
 - Avoid collisions automatically
-- Develop a robot car that can navigate safely on its own.
+- Develop a robot car that can navigate safely on its own
