@@ -38,3 +38,5 @@ Next Steps
 - Develop the robot's obstacle avoidance functionality.
 - Test the robot's autonomous navigation.
 
+Update 25.11.2026
+The LIDAR sensor is now mounted on the car using custom 3D printed bridge.
